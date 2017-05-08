@@ -1,0 +1,9 @@
+.DS_Store
+.coverage
+env/
+build/
+src/
+*.swp
+*.pyc
+rank.db
+__pycache__
